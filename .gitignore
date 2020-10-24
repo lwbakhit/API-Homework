@@ -1,0 +1,7 @@
+# My Settings
+**/API.env
+
+ALPACA_API_KEY = 'PKAXJD3NFVZF9MN2KKSS'
+ALPACA_SECRET_KEY = 'RuCrOYLwBCBbzKJORcyNPE8jKiRWi9QfIswJPeHw'
+
+map_box_api = pk.eyJ1IjoibHdiYWtoaXQiLCJhIjoiY2tnbGxkNjN0MHNqZzJ6cXA2b2FpNDJ6bCJ9.mu6R-7K4s8Nbl3ug7MQkdQ
